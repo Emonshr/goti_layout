@@ -1,6 +1,7 @@
-;; bn-goti.mim -- Bengali input method for goti layout
+;; bn-goti.mim -- Bengali input method for goti layout.
 ;; heavily inspired from Avro, Probhat and Boisakhi.
 ;; Designed by Emon Sahariar in 2019.
+;; This file is under The Unlicense, which is a Public Domain equivalent.
 
 (input-method bn goti)
 
@@ -97,7 +98,7 @@ Author: Emon Sahariar <usingml@gmail.com>
   ("S" ?শ)
   ("s" ?স)
   ((A-s) "ষ")
-  ((A-S) "স্ট")
+  ((A-S) "স্ট") 
   ((A-P) "ষ্ট")
   ("D" ?ঢ)
   ("d" ?ড)
@@ -161,8 +162,8 @@ Author: Emon Sahariar <usingml@gmail.com>
   ("," ?,)
   (">" ?.)
   ("." ?।)
-  ("?" ?/)
-  ("/" ??)
+  ("?" ??)
+  ("/" ?/)
   
   ))
  
