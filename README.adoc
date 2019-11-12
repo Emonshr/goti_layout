@@ -1,5 +1,5 @@
 = goti_layout
-Goti is a Bangla keyboard layout, inspired from Avro, Probhat and Boishakhi layouts.
+Goti is a Bangla keyboard layout, inspired from Avro, Probhat and Boishakhi layout.
 
 == Goals 
 
@@ -15,6 +15,7 @@ Goti is a Bangla keyboard layout, inspired from Avro, Probhat and Boishakhi layo
 
 গতি লেআউট আপাতত শুধু লিনাক্স চালিত কম্পিউটারগুলোতে চলবে। ধীরে ধীরে অন্যান্য প্ল্যাটফর্মের জন্যও একে উন্মুক্ত করা হবে।
 প্রথমেই দেখে নিন আপনার লিনাক্স ডিস্ট্রোটিতে `ibus, ibus-m17n` এ দুইটি প্যাকেজ ইন্সটল করা আছে কিনা। না থাকলে ইনস্টল করে নিন:
+
 উবুন্টু বা, ডেবিয়ানভিত্তিক ডিস্ট্রো হলে-
 
 `$ sudo apt install ibus ibus-m17n`
@@ -46,9 +47,7 @@ $ sudo cp goti_layout/bn-goti.mim /usr/share/m17n/
 রেফ দিতে alt+z চাপুন, তারপর প্রয়োজনীয় অক্ষরটি চাপুন যার উপর রেফ দিতে চান।
 
 ডট (.)  প্রশ্নবোধক(?) এসব লেআউট না পাল্টেই দেয়া যায় গতি লেআউটে।
-প্রশ্নবোধক সরাসরি ? চেপেই আনা যাবে। 
-ডট দিবেন shift+. চেপে।
-ব্যাকস্ল্যাশ(/) দিবেন shift+? চেপে।
+প্রশ্নবোধক দিবেন shift+/ দিয়ে, ডট দিবেন shift+. চেপে।
 
 == Experimental Features
 
