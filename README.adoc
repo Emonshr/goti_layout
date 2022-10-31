@@ -37,6 +37,8 @@ $ sudo cp goti_layout/bn-goti.mim /usr/share/m17n/
 
 মূল লেআউট দেখে নিন  https://github.com/Emonshr/goti_layout/blob/master/goti.png[এখানে]।
 
+ফায়ারফক্স থেকে alt প্রেস করে টপবারের বদলে যুক্তবর্ণ লিখতে ব্রাউজার থেকে about:config এ যান এবং ui.key.menuAccessKeyFocuses = false করে দিন।
+
 
 যুক্তবর্ণ তৈরি করতে হসন্ত(্) ব্যবহার করুন। যেমন: ম্প = m+h+p 
 
