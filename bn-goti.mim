@@ -131,7 +131,7 @@ Author: Emon Sahariar <usingml@gmail.com>
   ("|" ?ঃ)
   ("\\" ?ঁ)
   ("~" ?~)
-  ("`" ?‍)
+  ("`" ?‍‌)
   ("Z" "্র")
   ("z"  "্য")
   ((A-z) "র্")
